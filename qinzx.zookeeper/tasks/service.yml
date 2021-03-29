@@ -1,3 +1,0 @@
----
-- name: start zk
-  shell: zkServer.sh start
